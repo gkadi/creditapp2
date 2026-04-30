@@ -8,9 +8,6 @@ venv/
 # Django
 db.sqlite3
 
-# Model files (optional)
-*.pkl
-
 # OS
 .DS_Store
 Thumbs.db
